@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3d82e0a-7430-4efb-9991-374f017f4a3f" name="Changes" comment="" />
+    <list default="true" id="d3d82e0a-7430-4efb-9991-374f017f4a3f" name="Changes" comment="Type Casting">
+      <change afterPath="$PROJECT_DIR$/src/com/codewithadiga/ConditionalIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewithadiga/DoubleQuote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithadiga/DoubleQuote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codewithadiga/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codewithadiga/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/codewithadiga/Main.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HzTBBxSfZRLgI3R3TTdEoFhquv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +34,101 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.ConditionalIf">
+    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewithadiga.Arrays" />
+      <module name="adigajavacode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewithadiga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CastTypeCasting" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewithadiga.CastTypeCasting" />
+      <module name="adigajavacode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewithadiga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalIf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewithadiga.ConditionalIf" />
+      <module name="adigajavacode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewithadiga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleQuote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewithadiga.DoubleQuote" />
+      <module name="adigajavacode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewithadiga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoanCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewithadiga.LoanCalculator" />
+      <module name="adigajavacode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewithadiga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codewithadiga.Main" />
+      <module name="adigajavacode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codewithadiga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConditionalIf" />
+        <item itemvalue="Application.LoanCalculator" />
+        <item itemvalue="Application.Arrays" />
+        <item itemvalue="Application.DoubleQuote" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +138,43 @@
       <option name="presentableId" value="Default" />
       <updated>1669286778153</updated>
     </task>
+    <task id="LOCAL-00001" summary="Type Casting">
+      <created>1669289706331</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669289706331</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Type Casting">
+      <created>1669290695031</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669290695031</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Type Casting">
+      <created>1669293262120</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669293262120</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Type Casting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Type Casting" />
   </component>
 </project>

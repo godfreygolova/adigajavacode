@@ -1,2 +1,10 @@
-package com.codewithadiga;public class Main {
+package com.codewithadiga;
+
+public class Main
+{
+    public static void main(String[] args)
+    {
+        System.out.println("My Hello");
+    }
+
 }
